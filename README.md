@@ -1,1 +1,1 @@
-# demo
+# bnk demo-instance
